@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React 
+
+<img src="C:\Users\boudy\OneDrive\Desktop\Projects\firstproject\GPT-3.png" alt="gpt3">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
