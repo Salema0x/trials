@@ -58,3 +58,10 @@
         line-height: 25p;
     }
 }
+
+@media screen and (max-width: 700px) {
+    .gpt3__blog-container_groupA  {
+        font-size: 18px;
+        line-height: 25p;
+    }
+}
